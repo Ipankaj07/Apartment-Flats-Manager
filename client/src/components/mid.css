@@ -1,0 +1,51 @@
+.mid-section {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(https://nodes3cdn.hotpads.com/hotpads-web/1645119815/homeHeroLargeBackground-1zF7K9i.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.mid-container {
+  /* position: sticky;*/
+  position: relative;
+  top: 75px;
+}
+
+.mid-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 110px;
+}
+
+.mid-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 75px;
+  letter-spacing: 0.5px;
+  color: #6e6e6e;
+}
+
+.large-text {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: bold;
+}
+
+.small-text {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+.footer-banner {
+  position: relative;
+  top: 80px;
+}

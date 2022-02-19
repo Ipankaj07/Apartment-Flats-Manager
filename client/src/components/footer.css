@@ -1,0 +1,9 @@
+.footer-container {
+  height: 56px;
+  background-color: #cfcfcf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  bottom: 0;
+}
